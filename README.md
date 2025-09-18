@@ -1,6 +1,12 @@
+By popular request this has been migrated from Google Docs to Github Pages for hosting and maintenance 
+To add or modify a mod please create a pull request at https://github.com/dfsw/ccmods
+
+
 **Cookie Clicker Mod Database**
 
-Mods for *Cookie Clicker* can generally be divided into five main categories. Some mods may overlap, but they’ll be placed in the category that best represents their primary function. 
+Mods for *Cookie Clicker* can generally be divided into five main categories. Some mods may overlap, but they’ll be placed in the category that best represents their primary function. This database of mods is community driven if you notice something is missing please add it. This site seeks to maintain and track mods for the Web and Console versions of Cookie Clicker. Steam maintains its own internal tracking of mods through its Workshop, while many of these mods are also available on Steam not all of them will be. 
+
+We take no responsibility for the content of these mods, nor does this site make claim of ownership of any, make sure to back up your save files!
 
 ### **1\. Content Mods**
 
@@ -20,7 +26,7 @@ Informative mods enhance the original game by adding tools that provide more det
 
 ### **5\. Helper Mods**
 
-Helper mods assist you with your tasks within Cookie Clicker such as autoclickers, garden harvesters, stock market automation and things of that nature. 
+Helper mods assist you with your tasks within Cookie Clicker such as auto-clickers, garden harvesters, stock market automation and things of that nature. While many of these mods automatically automate actions some may not. 
 
 # Content Mods
 
