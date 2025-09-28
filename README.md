@@ -1,4 +1,4 @@
-By popular request this has been migrated from Google Docs to Github Pages for hosting and maintenance 
+By popular request this has been migrated from Google Docs to Github Pages for hosting and maintenance  
 To add or modify a mod please create a pull request at https://github.com/dfsw/ccmods
 
 
@@ -115,8 +115,6 @@ Nearly everything can be toggled on or off at will, though most start enabled.
 [Choose Your Own Lump](https://github.com/staticvariablejames/ChooseYourOwnLump) \- A small helper to predict the outcome of your next sugar lump, also provides directions on changes you can make to force specific types of lumps. 
 
 [Auto Cookie](https://github.com/Elekester/AutoCookie) \- A mod that contains simple macros such as golden cookie autoclickers.
-
-[Sugar Scum](https://github.com/sky-noname/SugarScum) \- A mod that scums the garden and special sugar lumps for you.
 
 # Modding Tools
 
